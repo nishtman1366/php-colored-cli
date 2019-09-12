@@ -1,0 +1,18 @@
+{
+  "name": "nishtman/php-colored-cli",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Mohsen Mirhosseini",
+      "email": "mohsen.mirhosseini@gmial.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "nishtman\\ColoredCli\\": "src/"
+    }
+  },
+  "description": "This package Help you print colored outputs in command line using php"
+}
